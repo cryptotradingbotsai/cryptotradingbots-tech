@@ -1,0 +1,15 @@
+{
+  "name": "cryptotradingbots-tech",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Crypto Trading Bots .TECH — guides, strategies, and references for trading bots on Kraken, Binance, and Solana.",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.5.0"
+  }
+}
