@@ -1,6 +1,6 @@
 import { defineConfig } from 'vitepress'
 
-const SITE_URL = 'https://cryptotradingbots.tech'
+const SITE_URL = 'https://www.cryptotradingbots.tech'
 const SITE_NAME = 'Crypto Trading Bots .TECH'
 const DEFAULT_DESCRIPTION =
   'Guides, strategies, and references for crypto trading bots on Kraken, Binance, and Solana. Plain-English explanations, FAQs, and curated links to trusted tools.'
