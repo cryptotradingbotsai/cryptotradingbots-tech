@@ -13,6 +13,7 @@ export default defineConfig({
   cleanUrls: true,
   lastUpdated: true,
   sitemap: { hostname: SITE_URL },
+  srcExclude: ['README.md', 'CLAUDE.md', '**/node_modules/**'],
 
   head: [
     ['meta', { name: 'theme-color', content: '#0ea5e9' }],
